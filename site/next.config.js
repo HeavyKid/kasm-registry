@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'HeavyKid Technologies',
     description: 'The HeavyKid store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://heavykid.github.io/kasm-registry',
+    listUrl: 'https://heavykid.github.io/kasm-registry/',
     contactUrl: 'https://github.com/HeavyKid/kasm-registry/issues',
   },
   reactStrictMode: true,
