@@ -7,7 +7,7 @@
     "memory": 2768,
     "gpu_count": 0,
     "cpu_allocation_method": "Inherit",
-    "docker_registry": "https://gitserver.home/viktor/",
+    "docker_registry": "https://gitserver.home/kovitek/",
     "categories": [
         "Desktop",
         "Productivity",
